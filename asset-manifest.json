@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/strava-map/static/css/main.5f361e03.chunk.css",
+    "main.js": "/strava-map/static/js/main.5a201b53.chunk.js",
+    "main.js.map": "/strava-map/static/js/main.5a201b53.chunk.js.map",
+    "runtime-main.js": "/strava-map/static/js/runtime-main.24e72838.js",
+    "runtime-main.js.map": "/strava-map/static/js/runtime-main.24e72838.js.map",
+    "static/js/2.9df8ce7f.chunk.js": "/strava-map/static/js/2.9df8ce7f.chunk.js",
+    "static/js/2.9df8ce7f.chunk.js.map": "/strava-map/static/js/2.9df8ce7f.chunk.js.map",
+    "index.html": "/strava-map/index.html",
+    "precache-manifest.20daa667bc1818bb08ac68ad1d7516ac.js": "/strava-map/precache-manifest.20daa667bc1818bb08ac68ad1d7516ac.js",
+    "service-worker.js": "/strava-map/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/strava-map/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9df8ce7f.chunk.js.LICENSE.txt": "/strava-map/static/js/2.9df8ce7f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/strava-map/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24e72838.js",
+    "static/js/2.9df8ce7f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5a201b53.chunk.js"
+  ]
+}
