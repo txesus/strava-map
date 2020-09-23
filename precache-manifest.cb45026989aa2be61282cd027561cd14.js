@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bd1ff80bdee27c5760ca2b45c13704d2",
+    "revision": "ec77bd413a6ce024a1f91d9947a5ba74",
     "url": "/strava-map/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/strava-map/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "33a165db337eb225ad62",
+    "revision": "bc0636736c452f34b873",
     "url": "/strava-map/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/strava-map/static/js/2.24ab7d51.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "33a165db337eb225ad62",
-    "url": "/strava-map/static/js/main.97967b20.chunk.js"
+    "revision": "bc0636736c452f34b873",
+    "url": "/strava-map/static/js/main.ce1c8c9a.chunk.js"
   },
   {
     "revision": "99f6e44527b7cfbb309a",
